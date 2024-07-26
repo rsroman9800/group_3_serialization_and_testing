@@ -225,29 +225,5 @@ namespace Assignment_3_skeleton
         {
             return size;
         }
-
-        // Method to convert SLL to List<User>
-        public List<User> ToList()
-        {
-            List<User> users = new List<User>();
-            Node current = head;
-            while (current != null)
-            {
-                users.Add((User)current.Element);
-                current = current.Next;
-            }
-            return users;
-        }
-
-        // Method to convert List<User> to SLL
-        public static SLL FromList(List<User> users)
-        {
-            SLL list = new SLL();
-            foreach (User user in users)
-            {
-                list.Append(user);
-            }
-            return list;
-        }
     }
 }
