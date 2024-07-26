@@ -24,3 +24,12 @@ C:\Users\maceh\Desktop\ObjProg2\Assignment_3_skeleton\Assignment_3_skeleton\Assi
 C:\Users\maceh\Desktop\ObjProg2\Assignment_3_skeleton\Assignment_3_skeleton\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignment_3_skeleton.csproj.CoreCompileInputs.cache
 C:\Users\maceh\Desktop\ObjProg2\Assignment_3_skeleton\Assignment_3_skeleton\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignment_3_skeleton.exe
 C:\Users\maceh\Desktop\ObjProg2\Assignment_3_skeleton\Assignment_3_skeleton\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignment_3_skeleton.pdb
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\bin\Debug\Assignment_3_skeleton.exe.config
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\bin\Debug\Assignment_3_skeleton.exe
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\bin\Debug\Assignment_3_skeleton.pdb
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignment_3_skeleton.csproj.AssemblyReference.cache
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignment_3_skeleton.csproj.CoreCompileInputs.cache
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignment_3_skeleton.exe
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignment_3_skeleton.pdb
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\maceh\Documents\GitHub\group_3_serialization_and_testing\Assignment_3_skeleton\Assignment_3_skeleton\obj\Debug\Assignme.DBD98194.Up2Date

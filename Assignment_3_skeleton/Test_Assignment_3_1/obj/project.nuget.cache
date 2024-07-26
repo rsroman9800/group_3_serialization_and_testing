@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrfsWtogtTCev8W23C0v3M9E0Bf4HeHklgjOtMooErLop33CACNUFxZ9nPk9S5IFjU7Zy7LA42SWttfffAbDmw==",
+  "dgSpecHash": "me0SDe5+tIM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maceh\\Desktop\\ObjProg2\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Test_Assignment_3_1\\Test_Assignment_3_1.csproj",
+  "projectFilePath": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Test_Assignment_3_1\\Test_Assignment_3_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maceh\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\maceh\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

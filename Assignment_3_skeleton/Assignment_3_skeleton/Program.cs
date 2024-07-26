@@ -41,6 +41,9 @@ namespace Assignment_3_skeleton
             list.Clear();
 
             Console.WriteLine("Is list empty after clear? " + list.IsEmpty());
+
+
+            Console.ReadLine();
         }
     }
 }

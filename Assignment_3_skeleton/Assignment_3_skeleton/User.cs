@@ -56,7 +56,7 @@ namespace Assignment_3_skeleton
         public bool equals(Object obj)
         {
             if (!(obj is User))
-			return false;
+                return false;
 
             User other = (User)obj;
 
