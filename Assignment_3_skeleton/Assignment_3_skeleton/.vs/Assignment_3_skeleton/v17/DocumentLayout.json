@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\maceh\\documents\\github\\group_3_serialization_and_testing\\assignment_3_skeleton\\assignment_3_skeleton\\problemdomain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:problemdomain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\maceh\\documents\\github\\group_3_serialization_and_testing\\assignment_3_skeleton\\assignment_3_skeleton\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\maceh\\documents\\github\\group_3_serialization_and_testing\\assignment_3_skeleton\\assignment_3_skeleton\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\maceh\\documents\\github\\group_3_serialization_and_testing\\assignment_3_skeleton\\assignment_3_skeleton\\utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\problemdomain\\User.cs",
+              "RelativeDocumentMoniker": "problemdomain\\User.cs",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\problemdomain\\User.cs",
+              "RelativeToolTip": "problemdomain\\User.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:29:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SLL.cs",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\SLL.cs",
+              "RelativeDocumentMoniker": "utility\\SLL.cs",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\SLL.cs",
+              "RelativeToolTip": "utility\\SLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:26:06.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\Node.cs",
+              "RelativeDocumentMoniker": "utility\\Node.cs",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\Node.cs",
+              "RelativeToolTip": "utility\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:26:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SerializationHelper.cs",
               "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\SerializationHelper.cs",
               "RelativeDocumentMoniker": "SerializationHelper.cs",
               "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_serialization_and_testing\\Assignment_3_skeleton\\Assignment_3_skeleton\\SerializationHelper.cs",
               "RelativeToolTip": "SerializationHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABBAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T21:09:38.094Z",
               "EditorCaption": ""
